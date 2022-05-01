@@ -432,7 +432,7 @@ int main()
 
 	for(int i = 0 ; i < final.size();i++)
 		{
-			cout<<i<< ": "<<fin[i]<<": ";
+			cout<<i<< ": ";
 			int temp = arr_size[i];
 		      for(int j =0 ; j<temp;j++)
       			{
